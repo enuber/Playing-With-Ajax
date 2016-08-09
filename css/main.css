@@ -1,0 +1,52 @@
+.card {
+    border: 0px;
+}
+
+.flickrCard {
+    height: 250px;
+    text-align: center;
+    background-color: lightgray;
+    position: relative;
+}
+
+.beautify {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    
+}
+
+#submit {
+    margin-bottom: 2em;
+}
+
+#wulogo {
+    max-width: 180px;
+    
+}
+
+.weatherCard {
+    height: 235px;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 3%;
+    border: 3px solid black;
+}
+
+#wordPics {
+    width: 75px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+.wordDiv {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
